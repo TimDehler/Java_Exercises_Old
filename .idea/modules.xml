@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgaben1/Aufgaben1.iml" filepath="$PROJECT_DIR$/Aufgaben1/Aufgaben1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAufgaben.iml" filepath="$PROJECT_DIR$/.idea/JavaAufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/conditions/conditions.iml" filepath="$PROJECT_DIR$/deTimJava/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/loops/loops.iml" filepath="$PROJECT_DIR$/deTimJava/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deTimJava/mathTasks/mathTasks.iml" filepath="$PROJECT_DIR$/deTimJava/mathTasks/mathTasks.iml" />
+    </modules>
+  </component>
+</project>
